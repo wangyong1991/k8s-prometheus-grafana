@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/metrics-server-amd64:v0.3.6
+FROM k8s.gcr.io/metrics-server-amd64:v0.3.1
 MAINTAINER WangYong<wangyong1@yidian-inc.com>
