@@ -1,3 +1,3 @@
-FROM kubesphere/ks-installer:v2.1.1
+FROM kubesphere/ks-installer:v2.0.0
 MAINTAINER WangYong
 
