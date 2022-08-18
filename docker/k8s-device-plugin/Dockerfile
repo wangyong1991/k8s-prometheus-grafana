@@ -1,3 +1,3 @@
-FROM nvidia/k8s-device-plugin:1.0.0-beta
+FROM intel/pmem-csi-driver-test:v1.0.1
 MAINTAINER WangYong
 
